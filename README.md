@@ -125,10 +125,7 @@ The cheap bunnings F clamps, bending under their own weight.
 ![clamped-with-sash-clamps](clamped-with-sash-clamps.jpg)
 The heavy duty sash clamps, well and truly within their operational threshold!
 
+About 24 hours later, I came back to check on the laminated body, and it looks bloody fantastic!
 
 ![glued-body](glued-body.jpg)
-
-![string-threaded-through-channels](string-threaded-through-channels.jpg)
-![testing-cream](testing-cream.jpg)
-
-![wires-threaded](wires-threaded.jpg)
+Fully cut, routed and laminated guitar body. Ready for finishing.
