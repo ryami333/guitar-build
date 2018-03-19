@@ -1,8 +1,8 @@
 # Mitch builds a guitar
 
-## The image in my head...
+## The picture in my head
 
-I've always had a bit of an "it'll work out in the end" kind of attitude to making things, so I usually start with the bare minimum of plans and try and adapt to the problems as I come across them. So, I only had a very rough idea of how I wanted this guitar to look in my head. I wanted a big-body jazz-guitar kind of presence, to resemble a Gretsch Bo Diddley, but with an angular offset not unlike a Gibson Explorer or Fender Jazzmaster. I drew the roughtest of sketches, and it looks like this:
+I've always had a bit of an "it'll work out in the end" kind of attitude to making things, so I usually start with the bare minimum of plans and try and adapt to the problems as I come across them. So, I only had a very rough idea of how I wanted this guitar to look in my head. I wanted a big-body jazz-guitar, to resemble a [Gretsch Bo Diddley](http://www.gretschguitars.com/gear/build/solid-body/g6138-bo-diddley-filter-tron-pickups-firebird-red), but with an angular offset a bit like a [Fender Jazzmaster](https://shop.fender.com/en/intl/electric-guitars/jazzmaster/standard-jazzmaster-hh/0149500505.html#start=1). I drew the roughtest of sketches, and it looks like this:
 
 ![rough-drawing](rough-drawing.jpg)
 
