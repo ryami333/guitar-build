@@ -9,7 +9,7 @@ I've always had a bit of an "it'll work out in the end" kind of attitude to maki
 I've built a couple of cigar-box guitars, repurposing odd bits of hardware from junk-shops and dollar stores, but I wanted this build to resemble more of a 'store bought' guitar. So, I collected a neck, and most of the hardware (except some bits and pieces I had spare in my guitar-bits box) from Aliexpress and [guitarparts.co.nz](https://www.guitarparts.co.nz/).
 
 ![aliexpress-neck](aliexpress-neck.jpg)
-[22USD Guitar neck](https://www.aliexpress.com/item/Maple-rosewood-Guitar-Neck-22-Frets-on-Rosewood-Strat-Shred-Neck-Guitar/32826808102.html) from Aliexpress. Couldn't believe the value for money, frets are all dead-level and nicely crowned, which is the important bits. Couple of scuffs and some little indentations in wood, but for $22 (including shipping) I couldn't be happier.
+[22USD Guitar neck](https://www.aliexpress.com/item/Maple-rosewood-Guitar-Neck-22-Frets-on-Rosewood-Strat-Shred-Neck-Guitar/32826808102.html) from Aliexpress. Couldn't believe the value for money, frets are all dead-level and nicely crowned, which is the important part. Couple of scuffs and some little indentations in wood, but for $22 (including shipping) I couldn't be happier.
 
 ![new-aliexpress-pickups](new-aliexpress-pickups.jpg)
 [26USD pickups](https://www.aliexpress.com/item/USA-Original-Epip-Pickups-Jazz-Guitar-Metal-pickups-Custom-P90-Pickups-Electric-Guitar-Pickups/32771330658.html?spm=a2g0s.9042311.0.0.Ebiz11) from Aliexpress. Tidy appearance, no idea if they're any good, no way to tell either. Unsure whether genuine Epiphone, but it's not a particularly valuable brand so don't know why anyone would manufacture knock-offs. Proof will be in the pudding.
