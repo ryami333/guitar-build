@@ -22,6 +22,29 @@ Bridge, machine heads ("tuners"), graphite nut, pickup selector switch and neck-
 
 ## The build
 
+It all began with a trip to bunnings, where I purchased one 90x42x1800mm length of their finest dressed-four-sides Pinus Radiata. It was about 30% longer than I needed, so that I had an opportunity to f*** up the routing/cutting a couple of times.
+
+The first and arguably most important cut, was to route out the 'neck pocket' (the recess that the neck would be wedged, glued and screwed into). Despite the warnings of every luthier on the internet, I tried to freehand it first. I quickly failed, and resigned to having to create a routing template (AKA "routing jig").
+
+![drawing-neck-pocket-template](drawing-neck-pocket-template.jpg)
+Measuring and marking one router-radius outwards from the trace of the neck heel. Apologies for photo taken with potato.
+
+We tracked the neck heel onto a scrap piece of MDF and measure one router-radius outwards (minus the router-bit radius) from the trace with a pair of calipers. Then we cut out that outer trace, leaving behind a big U-shaped piece of MDF which would become our routing jig. The idea is that you can screw or clamp the jig onto your timber, place the router on the inside of the jig, and route away the entire inner space.
+
+![routed-neck-pocket-outline-take-1](routed-neck-pocket-outline-take-1.jpg)
+Take 1, routed outline - just before we changed to a bigger router bit to route out the bulk in the middle.
+
+This was actually fairly successful, though the pocket was about 1mm too wide in all dimensions, so the neck wobbled around a little bit in there. So, I ran about 3 layers of electrical tape around the inside of the jig to effectively make the jig ~1mm thinner.
+
+![phallic-routing-slip](phallic-routing-slip.jpg)
+Take 2 - the router bit slipped somehow, and we ended up with this rather phallic looking piece. Off it was sliced.
+
+![routed-neck-pocket-outline-take-2-with-tape](routed-neck-pocket-outline-take-2-with-tape.jpg)
+Take 3 - see the tape around the inside of the jig, closing the radius slightly.
+
+![neck-sitting-in-routed-pocket](neck-sitting-in-routed-pocket.jpg)
+Perfect fit.
+
 ![about-to-glue](about-to-glue.jpg)
 
 ![all-cut-with-neck-sitting-in-pocket](all-cut-with-neck-sitting-in-pocket.jpg)
@@ -35,20 +58,19 @@ Bridge, machine heads ("tuners"), graphite nut, pickup selector switch and neck-
 ![completely-routed-neck-pocket](completely-routed-neck-pocket.jpg)
 ![control-channel-routed](control-channel-routed.jpg)
 ![cutting-pickup-jig](cutting-pickup-jig.jpg)
-![drawing-neck-pocket-template](drawing-neck-pocket-template.jpg)
+
 ![glued-body-pieces](glued-body-pieces.jpg)
 ![glued-body](glued-body.jpg)
 ![hardware-sitting-on-body](hardware-sitting-on-body.jpg)
 ![maths](maths.jpg)
-![neck-sitting-in-routed-pocket](neck-sitting-in-routed-pocket.jpg)
 
-![phallic-routing-slip](phallic-routing-slip.jpg)
+
+
 ![pickup-cavity-too-thin](pickup-cavity-too-thin.jpg)
 
 ![recessed-control-cavity](recessed-control-cavity.jpg)
 ![routed-centreblock](routed-centreblock.jpg)
-![routed-neck-pocket-outline-take-1](routed-neck-pocket-outline-take-1.jpg)
-![routed-neck-pocket-outline-take-2-with-tape](routed-neck-pocket-outline-take-2-with-tape.jpg)
+
 ![screwed-down-pickup-template](screwed-down-pickup-template.jpg)
 ![string-threaded-through-channels](string-threaded-through-channels.jpg)
 ![testing-cream](testing-cream.jpg)
