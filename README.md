@@ -24,18 +24,18 @@ It all began with a trip to bunnings, where I purchased a 90x42x1800mm length of
 
 The first and arguably most important cut, was to route out the "neck pocket" (the recess that the neck would be wedged, glued and screwed into). Despite the warnings of every luthier on the internet, I tried to freehand it first. I quickly failed, and resigned to creating a routing template (AKA "routing jig").
 
-We traced the neck heel onto a scrap piece of MDF and measure one router-radius outwards (minus the router-bit radius) from the trace with a pair of calipers. Then we cut out that outer trace, leaving behind a big U-shaped piece of MDF which would become our routing jig. The idea is that you can screw or clamp the jig onto your timber, place the router on the inside of the jig, and route away the entire inner space.
+We traced the neck heel onto a scrap piece of MDF and measured one router-radius outwards (minus one router-bit radius) from the trace with a pair of calipers. Then we cut out that outer trace with a jigsaw, leaving behind a big U-shaped piece of MDF which would become our routing jig. The idea is that you can screw or clamp the jig onto your timber, place the router on the inside of the jig, and route away the entire inner space.
 
 ![drawing-neck-pocket-template](drawing-neck-pocket-template.jpg)
-Measuring and marking one router-radius outwards from the trace of the neck heel. Apologies for photo taken with potato.
+Measuring and marking outwards from the trace of the neck heel. Apologies for photo taken with potato.
 
 ![routed-neck-pocket-outline-take-1](routed-neck-pocket-outline-take-1.jpg)
 Take 1, routed outline - just before we changed to a bigger router bit to route out the bulk in the middle.
 
-This was actually fairly successful, though the pocket was about 1mm too wide in all dimensions, so the neck wobbled around a little bit in there. So, I ran about 3 layers of electrical tape around the inside of the jig to effectively make the jig ~1mm thinner, then started again.
+This was actually fairly successful, though the pocket was about 1mm too wide in all dimensions, so the neck wobbled around a little bit in there. So, I ran about 3 layers of electrical tape around the inside of the jig to close the radius by ~1mm, then started again.
 
 ![phallic-routing-slip](phallic-routing-slip.jpg)
-Take 2 - the router bit slipped somehow, and we ended up with this rather phallic piece. Off it was sliced.
+Take 2 - the router bit slipped somehow, and we ended up with this rather phallic neck pocket. Off it was sliced.
 
 ![routed-neck-pocket-outline-take-2-with-tape](routed-neck-pocket-outline-take-2-with-tape.jpg)
 Take 3 - see the tape around the inside of the jig, closing the radius slightly.
@@ -44,11 +44,11 @@ Take 3 - see the tape around the inside of the jig, closing the radius slightly.
 Great success.
 
 ![neck-sitting-in-routed-pocket](neck-sitting-in-routed-pocket.jpg)
-Checking whether the neck fits its pocket - snug as a rug.
+Checking whether the neck fits the pocket - snug as a rug.
 
-Next, I had to cut two more cavities beneath the neck pocket for the pickups. The pickups I had bought from Aliexpress were actually going to be a bit of an awkward width for the timber I had bought as it turns out. The cavity would have left about 1mm on either edge, which meant I didn't have any margin for error. So, I abandonded those pickups and used another pair of mini humbuckers that I had leftover from another project which would be a much better fit.
+Next, I had to cut two more cavities beneath the neck pocket for the pickups. It transpired that the pickups I had bought from Aliexpress were actually going to be a bit of an awkward width for the timber. The cavity would have left about 1mm on either edge, which meant I didn't have any margin for error. So, I abandonded those pickups and used another pair of mini humbuckers that I had leftover from another project which would be a much better fit.
 
-The same process applied for these pickups - we traced around them onto a sheet of scrap wood, then measured outward by one router-radius minus one router-bit-radius, then cut out the resulting shape with a jigsaw.
+The same process was required for these pickup cavities as for the neck pocket - we traced around them onto a sheet of scrap wood, then measured outward by one router-radius minus one router-bit-radius, then cut out the resulting shape with a jigsaw.
 
 ![cutting-pickup-jig](cutting-pickup-jig.jpg)
 Cutting the pickup cavity jig. The inner rectangle represents the shape of the cavity. The outer rectangle represents the inner rectangle plus one router-radius minus one router-bit-radius.
@@ -66,14 +66,14 @@ Then, I tested the width of the resulting cavity by trying to drop one of the pi
 ![routed-centreblock](routed-centreblock.jpg)
 Both pickup cavities and neck pocket routed on the centreblock.
 
-The wiring channel is simply a channel that connects any or all cavities in a guitar, which might include pickup cavities, control cavities, pickup-selector switch cavities, and output jack cavities. To keep things simple, I was going to consolidate all of these things into a single cavity on the bottom of the guitar, so on this piece of timber I only needed a single channel which connected the two pickups.
+The wiring channel is simply a channel that connects any or all cavities in a guitar (which might include pickup cavities, control cavities, pickup-selector switch cavities, and output jack cavities). To keep things simple, I was going to consolidate all of these things into a single cavity on the bottom of the guitar, so on this piece of timber I only needed a single channel which connected the two pickups.
 
-I freehand-routed this particular cavity with the aid of a big straight-edge on one side - making a jig would have been overkill because it was not going to be visible once the body was glue together, so it did not have to be pretty.
+I freehand-routed this particular cavity with the aid of a big straight-edge on one side. Making a jig would have been overkill because it was not going to be visible once the body was glue together, so it did not have to be pretty.
 
 ![control-channel-routed](control-channel-routed.jpg)
 Freehand-routed wiring channel between the two pickup cavities. Not at all pretty, but will be hidden once glued.
 
-At this point, I was beginning to grow a little tired of the routing, so I decided to do something different and cut the wood into the shape I wanted to make up the body. I had to get a *little* bit more serious with my planning here, because I needed to work out the cutting angle I set the dropsaw to and the length to cut each piece to. I drew the body to my eye, and calculated the resulting angles and lengths.
+At this point, I was beginning to grow a little tired of the routing, so I decided to do something different and cut the wood into its final shape. I had to get a *little* bit more serious with my planning here, because I needed to work out the cutting angle that the dropsaw would be set to and the length to cut each piece. I drew the body to my eye, and calculated the resulting angles and lengths.
 
 ![maths](maths.jpg)
 Doing some quick maths. Using year-12 trigonometry in real life!
@@ -92,9 +92,7 @@ The middle and bottom body pieces.
 ![all-cut-with-neck-sitting-in-pocket](all-cut-with-neck-sitting-in-pocket.jpg)
 All cut, with the neck resting in its pocket.
 
-Because I had not been building to an existing template, and all I had to go on was the sketch I'd drawn above, it was hard to know just how big it would *look* in the flesh once I had cut all three pieces, I took this opportunity to rest the neck in its pocket and place all the hardware on the body in its approximate positions, and just take a moment to consider whether I needed to cut it a little shorter. In the end end, I decided I quite liked the size and shape, so I didn't do any more cutting.
- 
-Once I'd cut all three pieces of the body which I had measured to 40mm, I had a moment to consider the size of the guitar.
+Because I had not been building to an existing template, and all I had to go on was the sketch I'd drawn above, it was hard to know just how big it would *look* in the flesh once I had cut all three pieces, I took this opportunity to rest the neck in its pocket and place all the hardware on the body in its approximate configuration, and considered whether I needed to cut it a little shorter. In the end end, I decided I quite liked the size and shape, so I didn't do any more cutting.
 
 ![hardware-sitting-on-body](hardware-sitting-on-body.jpg)
 Checking the size and shape after cutting by placing all the hardware on the guitar.
@@ -109,7 +107,7 @@ This worked pretty well, and the result was a cavity with a 2mm recess around th
 ![wires-threaded-to-control-pocket](wires-threaded-to-control-pocket.jpg)
 Threading the pickup wires through the pickup cavities and through to the control cavity, to check the diameters and the alignment.
 
-So, with all the routing and cutting complete, it was time to "laminate" (glue) the body together. Just before I did though, I took the opportunity to save myself the headache of trying to thread wiring through the finished body by threading a little bit of string through. This means that I would only have to tie the cables to the end of the strings and pull the strings through.
+So, with all the routing and cutting complete, it was time to "laminate" (glue) the body together. Just before I did though, I took the opportunity to save myself the headache of threading wiring through the finished body by threading a little bit of string through while the pieces were still detached. This means that I would only have to tie the wires to the end of the strings and pull them through.
 
 ![about-to-glue](about-to-glue.jpg)
 The body pieces, with string threaded through. Ready to glue.
@@ -117,7 +115,7 @@ The body pieces, with string threaded through. Ready to glue.
 ![glued-body-pieces](glued-body-pieces.jpg)
 A heavy layer of PVA on both pieces.
 
-Once all pieces were glued, I clamed them together with a set of cheap F clamps which I'd bought from Bunnings (and a couple of bits of scrap wood either side to protect the body) but it turned out they weren't really worth money as they just bent under their own force. So, I upgraded to a pair of heavy duty sash clamps, which I had thought were probably going to be overkill.
+Once all pieces were glued, I clamped them together with a set of cheap F clamps which I'd bought from Bunnings (and a couple of bits of scrap wood either side to protect the body) but it turned out they were a waste of money, as they bent under their own force. So, I upgraded to a pair of heavy duty sash clamps, which I had previously thought were going to be overkill.
 
 ![clamped-with-f-clamps](clamped-with-f-clamps.jpg)
 The cheap bunnings F clamps, bending under their own weight.
