@@ -43,6 +43,30 @@ Take 3 - see the tape around the inside of the jig, closing the radius slightly.
 ![neck-sitting-in-routed-pocket](neck-sitting-in-routed-pocket.jpg)
 Checking whether the neck fits its pocket - snug as a rug.
 
+Next, I had to cut two more cavities beneath the neck pocket for the pickups. The pickups I had bought from Aliexpress were actually going to be a bit of an awkward width for the timber I had bought as it turns out. The cavity would have left about 1mm on either edge, which meant I didn't have any margin for error. So, I abandonded those pickups and used another pair of mini humbuckers that I had leftover from another project which would be a much better fit.
+
+The same process applied for these pickups - we traced around them onto a sheet of scrap wood, then measured outward by one router-radius minus one router-bit-radius, then cut out the resulting shape with a jigsaw.
+
+![cutting-pickup-jig](cutting-pickup-jig.jpg)
+Cutting the pickup cavity jig. The inner rectangle represents the shape of the cavity. The outer rectangle represents the inner rectangle plus one router-radius minus one router-bit-radius.
+
+Then, we screwed the pickup jig down onto the workbench, and routed away the inside.
+
+![screwed-down-pickup-template](screwed-down-pickup-template.jpg)
+The screwed-down pickup cavity routing jig, ready to route.
+
+![pickup-cavity-too-thin](pickup-cavity-too-thin.jpg)
+Testing the size of the pickup cavity.
+
+Then, I tested the width of the resulting cavity by trying to drop one of the pickups into it, and found that it was a bit of a squeeze, so I shuffled the timber along the workbench by 2mm (while leaving the jig in place) and routed it away. I repeated this same process for the second pickup cavity, before moving onto the wiring channel.
+
+The wiring channel is simply a channel that connects any or all cavities in a guitar, which might include pickup cavities, control cavities, pickup-selector switch cavities, and output jack cavities. To keep things simple, I was going to consolidate all of these things into a single cavity on the bottom of the guitar, so on this piece of timber I only needed a single channel which connected the two pickups.
+
+I freehand-routed this particular cavity with the aid of a big straight-edge on one side - making a jig would have been overkill because it was not going to be visible once the body was glue together, so it did not have to be pretty.
+
+![control-channel-routed](control-channel-routed.jpg)
+Freehand-routed wiring channel between the two pickup cavities.
+
 ![about-to-glue](about-to-glue.jpg)
 
 ![all-cut-with-neck-sitting-in-pocket](all-cut-with-neck-sitting-in-pocket.jpg)
@@ -54,8 +78,7 @@ Checking whether the neck fits its pocket - snug as a rug.
 ![clamped-with-f-clamps](clamped-with-f-clamps.jpg)
 ![clamped-with-sash-clamps](clamped-with-sash-clamps.jpg)
 ![completely-routed-neck-pocket](completely-routed-neck-pocket.jpg)
-![control-channel-routed](control-channel-routed.jpg)
-![cutting-pickup-jig](cutting-pickup-jig.jpg)
+
 
 ![glued-body-pieces](glued-body-pieces.jpg)
 ![glued-body](glued-body.jpg)
@@ -64,12 +87,10 @@ Checking whether the neck fits its pocket - snug as a rug.
 
 
 
-![pickup-cavity-too-thin](pickup-cavity-too-thin.jpg)
+
 
 ![recessed-control-cavity](recessed-control-cavity.jpg)
 ![routed-centreblock](routed-centreblock.jpg)
-
-![screwed-down-pickup-template](screwed-down-pickup-template.jpg)
 ![string-threaded-through-channels](string-threaded-through-channels.jpg)
 ![testing-cream](testing-cream.jpg)
 ![wires-threaded-to-control-pocket](wires-threaded-to-control-pocket.jpg)
