@@ -24,7 +24,7 @@ It all began with a trip to bunnings, where I purchased a 90x42x1800mm length of
 
 The first and arguably most important cut, was to route out the "neck pocket" (the recess that the neck would be wedged, glued and screwed into). Despite the warnings of every luthier on the internet, I tried to freehand it first. I quickly failed, and resigned to creating a routing template (AKA "routing jig").
 
-We tracked the neck heel onto a scrap piece of MDF and measure one router-radius outwards (minus the router-bit radius) from the trace with a pair of calipers. Then we cut out that outer trace, leaving behind a big U-shaped piece of MDF which would become our routing jig. The idea is that you can screw or clamp the jig onto your timber, place the router on the inside of the jig, and route away the entire inner space.
+We traced the neck heel onto a scrap piece of MDF and measure one router-radius outwards (minus the router-bit radius) from the trace with a pair of calipers. Then we cut out that outer trace, leaving behind a big U-shaped piece of MDF which would become our routing jig. The idea is that you can screw or clamp the jig onto your timber, place the router on the inside of the jig, and route away the entire inner space.
 
 ![drawing-neck-pocket-template](drawing-neck-pocket-template.jpg)
 Measuring and marking one router-radius outwards from the trace of the neck heel. Apologies for photo taken with potato.
@@ -39,6 +39,9 @@ Take 2 - the router bit slipped somehow, and we ended up with this rather phalli
 
 ![routed-neck-pocket-outline-take-2-with-tape](routed-neck-pocket-outline-take-2-with-tape.jpg)
 Take 3 - see the tape around the inside of the jig, closing the radius slightly.
+
+![completely-routed-neck-pocket](completely-routed-neck-pocket.jpg)
+Great success.
 
 ![neck-sitting-in-routed-pocket](neck-sitting-in-routed-pocket.jpg)
 Checking whether the neck fits its pocket - snug as a rug.
@@ -60,38 +63,72 @@ Testing the size of the pickup cavity.
 
 Then, I tested the width of the resulting cavity by trying to drop one of the pickups into it, and found that it was a bit of a squeeze, so I shuffled the timber along the workbench by 2mm (while leaving the jig in place) and routed it away. I repeated this same process for the second pickup cavity, before moving onto the wiring channel.
 
+![routed-centreblock](routed-centreblock.jpg)
+Both pickup cavities and neck pocket routed on the centreblock.
+
 The wiring channel is simply a channel that connects any or all cavities in a guitar, which might include pickup cavities, control cavities, pickup-selector switch cavities, and output jack cavities. To keep things simple, I was going to consolidate all of these things into a single cavity on the bottom of the guitar, so on this piece of timber I only needed a single channel which connected the two pickups.
 
 I freehand-routed this particular cavity with the aid of a big straight-edge on one side - making a jig would have been overkill because it was not going to be visible once the body was glue together, so it did not have to be pretty.
 
 ![control-channel-routed](control-channel-routed.jpg)
-Freehand-routed wiring channel between the two pickup cavities.
+Freehand-routed wiring channel between the two pickup cavities. Not at all pretty, but will be hidden once glued.
 
-![about-to-glue](about-to-glue.jpg)
+At this point, I was beginning to grow a little tired of the routing, so I decided to do something different and cut the wood into the shape I wanted to make up the body. I had to get a *little* bit more serious with my planning here, because I needed to work out the cutting angle I set the dropsaw to and the length to cut each piece to. I drew the body to my eye, and calculated the resulting angles and lengths.
+
+![maths](maths.jpg)
+Doing some quick maths. Using year-12 trigonometry in real life!
+
+I used a dropsaw here, which had a configurable cutting angle, which I set to 8degrees to achieve the offest shape I desired.
+
+![circular-saw-cutting-pieces](circular-saw-cutting-pieces.jpg)
+This circular saw, configured to cut at a consistent angle.
+
+![centreblock-cut](centreblock-cut.jpg)
+The centreblock, cut to 40mm each side.
+
+![centroblock-and-right-wing-cut2](centroblock-and-right-wing-cut2.jpg)
+The middle and bottom body pieces.
 
 ![all-cut-with-neck-sitting-in-pocket](all-cut-with-neck-sitting-in-pocket.jpg)
+All cut, with the neck resting in its pocket.
 
-![centreblock-and-right-wing-cut](centreblock-and-right-wing-cut.jpg)
-![centreblock-cut](centreblock-cut.jpg)
-![centroblock-and-right-wing-cut2](centroblock-and-right-wing-cut2.jpg)
-![circular-saw-cutting-pieces](circular-saw-cutting-pieces.jpg)
-![clamped-with-f-clamps](clamped-with-f-clamps.jpg)
-![clamped-with-sash-clamps](clamped-with-sash-clamps.jpg)
-![completely-routed-neck-pocket](completely-routed-neck-pocket.jpg)
+Because I had not been building to an existing template, and all I had to go on was the sketch I'd drawn above, it was hard to know just how big it would *look* in the flesh once I had cut all three pieces, I took this opportunity to rest the neck in its pocket and place all the hardware on the body in its approximate positions, and just take a moment to consider whether I needed to cut it a little shorter. In the end end, I decided I quite liked the size and shape, so I didn't do any more cutting.
+ 
+Once I'd cut all three pieces of the body which I had measured to 40mm, I had a moment to consider the size of the guitar.
 
-
-![glued-body-pieces](glued-body-pieces.jpg)
-![glued-body](glued-body.jpg)
 ![hardware-sitting-on-body](hardware-sitting-on-body.jpg)
-![maths](maths.jpg)
+Checking the size and shape after cutting by placing all the hardware on the guitar.
 
-
-
-
+Back to the routing. I needed to route a control-cavity (where the knobs, pickup selector and output jack would go) for the bottom piece of the body. I had the idea that I could use the existing pickup cavity jig with some different sized routing bits and a bit of shuffling between routing passes to save myself from having to make a new routing jig. I experimented on a piece of scrap first, which was a success, then I moved onto the real deal.
 
 ![recessed-control-cavity](recessed-control-cavity.jpg)
-![routed-centreblock](routed-centreblock.jpg)
+Routed control cavity, with recessed lip.
+
+This worked pretty well, and the result was a cavity with a 2mm recess around the edges where I can screw down a piece of metal of plastic with the knobs/jack/switch attached. I drilled a hole from the cavity to the side of the timber where the pickup wiring channel was located.
+
+![wires-threaded-to-control-pocket](wires-threaded-to-control-pocket.jpg)
+Threading the pickup wires through the pickup cavities and through to the control cavity, to check the diameters and the alignment.
+
+So, with all the routing and cutting complete, it was time to "laminate" (glue) the body together. Just before I did though, I took the opportunity to save myself the headache of trying to thread wiring through the finished body by threading a little bit of string through. This means that I would only have to tie the cables to the end of the strings and pull the strings through.
+
+![about-to-glue](about-to-glue.jpg)
+The body pieces, with string threaded through. Ready to glue.
+
+![glued-body-pieces](glued-body-pieces.jpg)
+A heavy layer of PVA on both pieces.
+
+Once all pieces were glued, I clamed them together with a set of cheap F clamps which I'd bought from Bunnings (and a couple of bits of scrap wood either side to protect the body) but it turned out they weren't really worth money as they just bent under their own force. So, I upgraded to a pair of heavy duty sash clamps, which I had thought were probably going to be overkill.
+
+![clamped-with-f-clamps](clamped-with-f-clamps.jpg)
+The cheap bunnings F clamps, bending under their own weight.
+
+![clamped-with-sash-clamps](clamped-with-sash-clamps.jpg)
+The heavy duty sash clamps, well and truly within their operational threshold!
+
+
+![glued-body](glued-body.jpg)
+
 ![string-threaded-through-channels](string-threaded-through-channels.jpg)
 ![testing-cream](testing-cream.jpg)
-![wires-threaded-to-control-pocket](wires-threaded-to-control-pocket.jpg)
+
 ![wires-threaded](wires-threaded.jpg)
