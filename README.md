@@ -1,14 +1,12 @@
 # Mitch builds a guitar
 
-## The picture in my head
+## The plan
 
 I've always had a bit of an "it'll work out in the end" kind of attitude to making things, so I usually start with the bare minimum of plans and try and adapt to the problems as I come across them. So, I only had a very rough idea of how I wanted this guitar to look in my head. I wanted a big-body jazz-guitar, to resemble a [Gretsch Bo Diddley](http://www.gretschguitars.com/gear/build/solid-body/g6138-bo-diddley-filter-tron-pickups-firebird-red), but with an angular offset a bit like a [Fender Jazzmaster](https://shop.fender.com/en/intl/electric-guitars/jazzmaster/standard-jazzmaster-hh/0149500505.html#start=1). I drew the roughtest of sketches, and it looks like this:
 
 ![rough-drawing](rough-drawing.jpg)
 
-## The scope
-
-I've also built a couple of cigar-box guitars, repurposing odd bits of hardware from junk-shops and dollar stores, but I wanted this build to resemble more of a 'store bought' guitar. So, I collected a neck, and most of the hardware (except some bits and pieces I had spare in my guitar-bits box) from Aliexpress and [guitarparts.co.nz](https://www.guitarparts.co.nz/).
+I've built a couple of cigar-box guitars, repurposing odd bits of hardware from junk-shops and dollar stores, but I wanted this build to resemble more of a 'store bought' guitar. So, I collected a neck, and most of the hardware (except some bits and pieces I had spare in my guitar-bits box) from Aliexpress and [guitarparts.co.nz](https://www.guitarparts.co.nz/).
 
 ![aliexpress-neck](aliexpress-neck.jpg)
 [22USD Guitar neck](https://www.aliexpress.com/item/Maple-rosewood-Guitar-Neck-22-Frets-on-Rosewood-Strat-Shred-Neck-Guitar/32826808102.html) from Aliexpress. Couldn't believe the value for money, frets are all dead-level and nicely crowned, which is the important bits. Couple of scuffs and some little indentations in wood, but for $22 (including shipping) I couldn't be happier.
