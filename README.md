@@ -144,3 +144,7 @@ once the pilot holes were comoleted, I screwed the neck in, and admired my work!
 ![neck pocket drilling](bridge-jig-1.jpg)
 ![neck pocket drilling](bridge-jig-2.jpg)
 ![neck pocket drilling](bridge-jig-3.jpg)
+![neck pocket drilling](bridge-poles-1.jpg)
+![neck pocket drilling](bridge-poles-2.jpg)
+![neck pocket drilling](bridge-poles-3.jpg)
+![neck pocket drilling](bridge-poles-4.jpg)
