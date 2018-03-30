@@ -126,4 +126,10 @@ The heavy duty sash clamps, well and truly within their operational threshold!
 About 24 hours later, I came back to check on the laminated body, and it looks bloody fantastic!
 
 ![glued-body](glued-body.jpg)
-Fully cut, routed and laminated guitar body. Ready for finishing.
+Fully cut, routed and laminated guitar body.
+
+## Attaching the neck
+
+Next up, I wanted to drill the holes that the bridge would be attached to, but to position tjem properly I was going to need the neck sitting firmly in its pocket. So I started by positioning he neck-plate over the rear of the body, and drilling through to th e empty neck pocket.
+
+![neck pocket drilling](neck-pocket-1.jpg)
