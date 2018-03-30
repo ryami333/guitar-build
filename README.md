@@ -133,6 +133,11 @@ Fully cut, routed and laminated guitar body.
 Next up, I wanted to drill the holes that the bridge would be attached to, but to position tjem properly I was going to need the neck sitting firmly in its pocket. So I started by positioning he neck-plate over the rear of the body, and drilling through to th e empty neck pocket.
 
 ![neck pocket drilling](neck-drill-1.jpg)
+
+Then I clamped the neck into the pocket, drilled the pilot holes deeper, into the neck.
+
 ![neck pocket drilling](neck-drill-2.jpg)
+
+once the pilot holes were comoleted, I screwed the neck in, and admired my work!
 ![neck pocket drilling](neck-drill-3.jpg)
 ![neck pocket drilling](neck-drill-4.jpg)
