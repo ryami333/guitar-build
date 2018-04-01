@@ -192,3 +192,10 @@ Then I started spraying on layers of the aformentioned spraypaint. I made the fa
 I was also a little disappointed by the color itself - it wasn't as creamy as the color on the can. It was actually quite white, which is not what I was hoping for at all.
 
 ![neck pocket drilling](finish-6.jpg)
+
+So once it had dried, I sanded most of it back, leaving only a layer of what I could now treat as sealer. I bought a testing pot of a cream color I quite liked from bunnings and a little roller, and painted four layers, about 20minutes between each.
+
+![Paint](paint-1.jpg)
+![Paint](paint-2.jpg)
+
+I was much more pleased with the color, but it was still not very smooth as you might be able to tell from these photos, if you look carefully.
