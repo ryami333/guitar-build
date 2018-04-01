@@ -123,35 +123,72 @@ The cheap bunnings F clamps, bending under their own weight.
 ![clamped-with-sash-clamps](clamped-with-sash-clamps.jpg)
 The heavy duty sash clamps, well and truly within their operational threshold!
 
-About 24 hours later, I came back to check on the laminated body, and it looks bloody fantastic!
+About 24 hours later, I came back to check on the laminated body, and it looked bloody fantastic!
 
 ![glued-body](glued-body.jpg)
 Fully cut, routed and laminated guitar body.
 
 ## Attaching the neck
 
-Next up, I wanted to drill the holes that the bridge would be attached to, but to position tjem properly I was going to need the neck sitting firmly in its pocket. So I started by positioning he neck-plate over the rear of the body, and drilling through to th e empty neck pocket.
+Next up, I wanted to drill the holes that the bridge would be attached to, but to position them properly I was going to need the neck sitting firmly in its pocket. So I started by positioning the neck-plate in its home on the rear of the body, and drilling through to the neck pocket.
 
 ![neck pocket drilling](neck-drill-1.jpg)
 
-Then I clamped the neck into the pocket, drilled the pilot holes deeper, into the neck.
+Then I clamped the neck into the pocket and drilled deeper this time, into the neck.
 
 ![neck pocket drilling](neck-drill-2.jpg)
 
-once the pilot holes were comoleted, I screwed the neck in, and admired my work!
+Once all of the pilot holes were totally drilled, I screwed the neck in, and admired my work!
+
 ![neck pocket drilling](neck-drill-3.jpg)
 ![neck pocket drilling](neck-drill-4.jpg)
+
+The next step was one of the most important of the whole build - drilling the holes for the mounting poles of the bridge. Theoretically, the distance between the nut (the zero-th fret on the neck) and the bridge should be double the distance between the nut and the 12th fret. In practice though, if you were to place the bridge at exactly that position, the guitar would tune to be flat. This is due to a combination of factors, but the TL;DR is that you need to set the bridge position a few millimetres longer than you would have otherwise. Thankfully, I'm using a bridge which actually has about ±6mm of configurable travel, which does make my measurements somewhat forgiving.
+
+Equally as important as measuring the distance to the bridge, was drilling the bridge poles themselves the correct distance apart. If I didn't manage to do this then the bridge would not actually not be able to be mounted onto the poles themselves. So I made set about making myself a drilling jig on this scrap piece of MDF.
+
 ![neck pocket drilling](bridge-jig-1.jpg)
+
+I sat the bridge on the MDF, and traced around the poles.
+
 ![neck pocket drilling](bridge-jig-2.jpg)
 ![neck pocket drilling](bridge-jig-3.jpg)
+
+Then I drilled out those holes, and made sure that the distance was correct by mounting the bridge onto them.
 ![neck pocket drilling](bridge-poles-1.jpg)
+
+Then I calculated bridge position using Stewmac's bridge position calculator, and marked along the body to indicate the positioning of the bridge poles.
+
 ![neck pocket drilling](bridge-poles-2.jpg)
+
+Then I clamped the drilling jig into place on top of the body, and before I began drillingI added a piece of tape to the drill bit to indicate the depth at which to stop drilling, so that I didn't drill through to the other side of the body.
+
 ![neck pocket drilling](bridge-poles-3.jpg)
+
+The bridge poles sitting in their new rightful place on the top of the guitar body, with the bridge happily mounted on top.
+
 ![neck pocket drilling](bridge-poles-4.jpg)
 
+### The finish
+
+The finishing process turned out to be a massive headache, mostly because I'm totally inept as a painter! I had bought some ultra matt 'Chalked' spraypaint in a cream color by Rustoleum, and I was hoping to get a nice smooth cream color.
+
+I filled all of the cracks and dents with this wood putty, and gave the body a thorough sand with a high grit sandpaper so that it was as smooth as possible, ready for painting.
+
 ![neck pocket drilling](finish-1.jpg)
+
 ![neck pocket drilling](finish-2.jpg)
+
+Then I nailed in this picture hanger I had lying around, so that I could hang up the body while spraying it without handling the body itself.
+
 ![neck pocket drilling](finish-3.jpg)
+
 ![neck pocket drilling](finish-4.jpg)
+
+Then I started spraying on layers of the aformentioned spraypaint. I made the fatal flaw of spraying too thick, which resulted in a runny finish in some patches.
+
 ![neck pocket drilling](finish-5.jpg)
+
+I was also a little disappointed by the color itself - it wasn't as creamy as the color on the can. It was actually quite white, which is not what I was hoping for at all.
+
 ![neck pocket drilling](finish-6.jpg)
